@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *  * main - main block
- *
- *   * Return: 0
- *
- *    */
+*main - prints phrase "Programming is like building a multilingual puzzle"
+*Return: 0
+*/
 
 int main(void)
 
