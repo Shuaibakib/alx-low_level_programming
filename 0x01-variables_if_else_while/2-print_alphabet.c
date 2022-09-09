@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
- /**
-  * main - Print alphabet
-  *
-  * Return: Always 0 (success)
-  */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
